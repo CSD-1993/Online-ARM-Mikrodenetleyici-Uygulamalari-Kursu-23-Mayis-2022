@@ -1,6 +1,6 @@
 ## ARM Mikrodenetleyici Uygulamaları
 
-Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişiklik yapılabilir. Yeni konular eklenebilir ya da bazı konular programdan çıkartılabilir. Ders konuları işlenme sırasına göre belirtilmemiştir. ARM C Uygulamaları ders programı STM32F4 işlemci mimarisi kullanılarak yürütülecektir. Geliştirme ortamı olarak IAR Embedded Workbench for ARM (EWARM) kullanılacaktır. Uygulama konularında "Blue Pill / Black Pill" kartlarının kullanılması planlanmaktadır. Ayrıca Mikroelektronika ve diğer firmalarının bazı bordları da kullanılacaktır.
+Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişiklik yapılabilir. Yeni konular eklenebilir ya da bazı konular programdan çıkartılabilir. Ders konuları işlenme sırasına göre belirtilmemiştir. ARM C Uygulamaları ders programı STM32F1/STM32F4 işlemci mimarisi kullanılarak yürütülecektir. Geliştirme ortamı olarak IAR Embedded Workbench for ARM (EWARM) kullanılacaktır. Uygulama konularında "Blue Pill / Black Pill" kartlarının kullanılması planlanmaktadır. Ayrıca Mikroelektronika ve diğer firmalarının bazı bordları da kullanılacaktır.
 
 Ön Koşul: C programlama dilinin yeterli düzeyde bilinmesi, temel düzeyde elektronik bilgisi.
 
