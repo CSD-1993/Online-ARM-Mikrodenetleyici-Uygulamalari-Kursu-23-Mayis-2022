@@ -1,7 +1,7 @@
 # 0nline-ARM-Mikrodenetleyici-Uygulamalari-Kursu-29-Mart-2022
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kursumuz `29 Mart 2021` tarihinde başlayacaktır.
++ Kursumuz `29 Mart 2022` tarihinde başlayacaktır.
 + Kursumuzun eğitmeni `Gürbüz Aslan`'dır.
 + Kursumuz gerçek zamanlıdır.
 + Toplam kurs süresi `100` saattir. Dersler `Salı, Perşembe ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
