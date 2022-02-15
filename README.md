@@ -1,4 +1,4 @@
-# 0nline-ARM-Mikrodenetleyici-Uygulamalari-Kursu-28-Mart-2022
+# 0nline-ARM-Mikrodenetleyici-Uygulamalari-Kursu-2-Mayıs-2022
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kursumuz `2 Mayıs 2022` tarihinde başlayacaktır.
